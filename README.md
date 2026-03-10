@@ -31,6 +31,15 @@ Technologies Used
 - Visual Studio
 - Unity Physics and Rendering Systems
 
+Project Structure
+- Projectile Launch System: Manages slingshot mechanics and projectile trajectory
+- Physics Interaction System: Handles force application, rigidbody behavior, and impact simulation
+- Castle Prefab System: Modular destructible structures used for level construction
+- Level Management System: Controls level progression and scene transitions
+- Camera Controller: Manages gameplay and overview camera states
+- Game Manager: Tracks scoring, win conditions, and restart logic
+- User Interface System: Displays player score, high score, and game state feedback
+
 What I Learned
 - This project strengthened my ability to design physics-based gameplay systems in Unity using C#. I gained experience implementing projectile motion, collision interactions, and force balancing for responsive mechanics. I also improved my skills in modular prefab design, scene management, persistent data storage, and debugging real-time physics systems.
 
