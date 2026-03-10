@@ -29,7 +29,6 @@ Technologies Used
 - Unity Game Engine
 - C#
 - Visual Studio
-- Unity Physics and Rendering Systems
 
 Project Structure
 - Projectile Launch System: Manages slingshot mechanics and projectile trajectory
