@@ -1,6 +1,6 @@
 Mission Demolition - Unity Physics-Based Puzzle Game
 
-- Mission Demolition is a physics-based projectile puzzle game developed in Unity using C#. Inspired by structured demolition mechanics, the player launches projectiles via a slingshot to destroy castle structures across multiple progressively challenging levels. The project emphasizes real-time physics simulation, object interaction systems, and modular level design.
+- This is a is a physics-based projectile puzzle game developed in Unity using C#. The player launches projectiles via a slingshot to destroy castle structures across multiple progressively challenging levels. The project emphasizes real-time physics simulation, object interaction systems, and modular level design.
 
 Features
 - Slingshot-based projectile launching system
