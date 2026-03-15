@@ -43,4 +43,4 @@
 - This project strengthened my ability to design physics-based gameplay systems in Unity using C#. I gained experience implementing projectile motion, collision interactions, and force balancing for responsive mechanics. I also improved my skills in modular prefab design, scene management, persistent data storage, and debugging real-time physics systems.
 
 ### Status
-- Developed and completed gameplay prototype focusing on core mechanics, system design, physics, and level design as part of coursework in game development.
+- Developed and completed gameplay prototype focusing on core mechanics, system design, physics, and level design.
